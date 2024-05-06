@@ -1,0 +1,15 @@
+C:\Users\Jake\source\repos\ConsoleGame\ConsoleGame\bin\Debug\net7.0\ConsoleGame.exe
+C:\Users\Jake\source\repos\ConsoleGame\ConsoleGame\bin\Debug\net7.0\ConsoleGame.deps.json
+C:\Users\Jake\source\repos\ConsoleGame\ConsoleGame\bin\Debug\net7.0\ConsoleGame.runtimeconfig.json
+C:\Users\Jake\source\repos\ConsoleGame\ConsoleGame\bin\Debug\net7.0\ConsoleGame.dll
+C:\Users\Jake\source\repos\ConsoleGame\ConsoleGame\bin\Debug\net7.0\ConsoleGame.pdb
+C:\Users\Jake\source\repos\ConsoleGame\ConsoleGame\obj\Debug\net7.0\ConsoleGame.csproj.AssemblyReference.cache
+C:\Users\Jake\source\repos\ConsoleGame\ConsoleGame\obj\Debug\net7.0\ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\source\repos\ConsoleGame\ConsoleGame\obj\Debug\net7.0\ConsoleGame.AssemblyInfoInputs.cache
+C:\Users\Jake\source\repos\ConsoleGame\ConsoleGame\obj\Debug\net7.0\ConsoleGame.AssemblyInfo.cs
+C:\Users\Jake\source\repos\ConsoleGame\ConsoleGame\obj\Debug\net7.0\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Jake\source\repos\ConsoleGame\ConsoleGame\obj\Debug\net7.0\ConsoleGame.dll
+C:\Users\Jake\source\repos\ConsoleGame\ConsoleGame\obj\Debug\net7.0\refint\ConsoleGame.dll
+C:\Users\Jake\source\repos\ConsoleGame\ConsoleGame\obj\Debug\net7.0\ConsoleGame.pdb
+C:\Users\Jake\source\repos\ConsoleGame\ConsoleGame\obj\Debug\net7.0\ConsoleGame.genruntimeconfig.cache
+C:\Users\Jake\source\repos\ConsoleGame\ConsoleGame\obj\Debug\net7.0\ref\ConsoleGame.dll
