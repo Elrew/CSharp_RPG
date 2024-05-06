@@ -11,20 +11,28 @@ namespace ConsoleGame
         public int _borderWidth;
         public int _borderHeight;
 
+        
         public Maps(int borderLength = 120, int borderHeight = 30)
         {
             _borderWidth = borderLength;
             _borderHeight = borderHeight;
         }
 
-        // put in a first overworld map and use the Draw method in Sprites to do it. 
 
 
+        public Dictionary<int, int> forest1 = new Dictionary<int, int>
+        {
+            { 10, 100 },
+            { 15, 78 },
+            { 20, 20 },
+            { 5, 54 },
+            { 9, 9 },
+            { 26, 65 },
+            { 19, 110 },
+            { 6, 4 },
+            { 11, 36 },
 
-
-
-
-
+        };
 
         
         public void DrawBorder(char borderChar = '█')

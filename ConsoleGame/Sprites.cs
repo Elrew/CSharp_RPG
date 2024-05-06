@@ -13,9 +13,10 @@ namespace ConsoleGame
 
         public string[] tree1 =
             {"  @@",
-             " @@@@ ",
+             " @@@@",
              "  ||",
-             "  ||"   };
+             "  ||"   
+            };
 
 
 
